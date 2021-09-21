@@ -3,4 +3,4 @@
 primera práctica
 
 # Continguts
-# Crear documento html
+* Crear documento html
